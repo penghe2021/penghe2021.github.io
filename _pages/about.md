@@ -19,5 +19,5 @@ Education
 
 Internship
 ------
-- 2023.02 - 2023.12, Research Assistant 1 at USC, Information Sciences Institute, CA, USA
+- 2023.02 - 2023.12, Research Assistant at USC, Information Sciences Institute, CA, USA
 - 2021.06 - 2021.11, Shanghai Artificial Intelligence Laboratory, Shanghai, China
