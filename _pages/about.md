@@ -13,7 +13,7 @@ My PhD research focuses on explaining deep learning models through the lens of t
 
 Education
 ------
-- 2025.09 - 2028.12 (expected), Ph.D., Computer Science at Simon Fraser University
+- 2025.09 - 2029.08 (expected), Ph.D., Computer Science at Simon Fraser University
 - 2020.08 - 2022.12, M.Sc., Computer Science at University of Southern California
 - 2016.09 - 2020.07, B.Sc., Telecommunication at Hangzhou Dianzi University
 
